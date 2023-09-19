@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+.navbarr{
+    background-color:rgb(17,17,18);
+    padding: 0;
+
+}
+
+
+
+
+.navbarr ul{
+    display: flex;
+    list-style-type: none;
+    width: 80%;
+    padding: 0;
+    margin: 0 auto;
+    height: 44px;
+    align-items: center;
+    font-size: 12px;
+    justify-content: space-around;
+}
+
+.navbarr li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+   
+    
+.header img{
+    width: 100%;
+    height: 450px;
+    object-fit: none;
+}
+.carousel-item img{
+    width: 100% !important;
+    height: 450px !important;
+    object-fit: none !important;
+}
+
+.container{
+    width: 100%;
+    height: 600px;
+   display: flex;
+}
+
+
+.row{
+
+padding-top: 10px;
+    width: 100%;
+    height: 600px;
+   
+ 
+}
+
+
+ .col-6{
+  
+    justify-content: center;
+    width:100%;
+    height: 600px;
+    display: flex;
+  
+ }
+
+ .card-body{
+    text-align: center; 
+ }
+
+ 
+
+
+
+
+     
+
+
+
+
+ 
+
+
+  
